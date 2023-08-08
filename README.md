@@ -1,2 +1,0 @@
-# Data-Science-Yandex-Practicum
-Мои учебные проекты, которые показывают, какими навыками я владею: библиотеки (Pandas, Matplotlib, NumPy, SciPy, Scikit-learn, lightgbm, Seaborn, statsmodels, BERT, nltk,tf-idf, Keras), навыки машинного обучения, бутстреп, компьютерное зрение, предобработка данных, исследовательский и статистический анализ данных, описательная статистика, проверка статистических гипотез, SQL,SQLAlchemy.
