@@ -10,3 +10,6 @@
 
 ## Используемые библиотеки
 Matplotlib,Pandas,Scikit-learn
+
+## Вывод:
+Лучшие значения показала модель CatBoostClassifier с гиперпараметрами {'iterations': 500, 'l2_leaf_reg': 3, 'learning_rate': 0.1}.
