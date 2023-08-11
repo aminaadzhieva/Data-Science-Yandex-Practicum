@@ -11,3 +11,7 @@
 
 ## Используемые библиотеки
 Matplotlib,Pandas,Scikit-learn
+
+## Вывод:
+
+ Лучшим оказался upsampling на алгоритме catboost.
