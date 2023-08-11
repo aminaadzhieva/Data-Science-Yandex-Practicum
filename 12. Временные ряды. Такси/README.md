@@ -11,3 +11,6 @@
 
 ## Используемые библиотеки
 Pandas,Python,Scikit-learn,statsmodels
+
+## Вывод:
+Модель CatBoostRegressor дает лучшие показатели.
