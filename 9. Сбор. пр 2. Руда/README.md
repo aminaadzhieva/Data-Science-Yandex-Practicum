@@ -11,3 +11,6 @@
 
 ## Используемые библиотеки
 Matplotlib,NumPy,Pandas,Scikit-learn
+
+## Вывод:
+Лучшая модель - LASSO. 
